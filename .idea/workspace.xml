@@ -19,7 +19,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/weblaf-ui-1.2.9.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2508108" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -36,37 +36,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+  <component name="RunManager" selected="Application.CallbackDemo">
+    <configuration name="BoxLayoutTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BoxLayoutTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JInternalFrameTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JInternalFrameTest" />
+    <configuration name="ButtonEvent" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ButtonEvent" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JInternalFrameTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JInternalFrameTutorial" />
+    <configuration name="CallbackDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CallbackDemo" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JMenuBarTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JMenuBarTest" />
+    <configuration name="CardLayoutTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CardLayoutTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JTableTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JTableTest" />
+    <configuration name="TextFieldEvent" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TextFieldEvent" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.JInternalFrameTest" />
-        <item itemvalue="Application.JInternalFrameTutorial" />
-        <item itemvalue="Application.JMenuBarTest" />
-        <item itemvalue="Application.JTableTest" />
+        <item itemvalue="Application.CallbackDemo" />
+        <item itemvalue="Application.CardLayoutTutorial" />
+        <item itemvalue="Application.BoxLayoutTutorial" />
+        <item itemvalue="Application.TextFieldEvent" />
+        <item itemvalue="Application.ButtonEvent" />
       </list>
     </recent_temporary>
   </component>
@@ -100,6 +100,9 @@
       <workItem from="1565425558244" duration="471000" />
       <workItem from="1565426041650" duration="2323000" />
       <workItem from="1565431534093" duration="4420000" />
+      <workItem from="1565613305870" duration="1241000" />
+      <workItem from="1565791621177" duration="1296000" />
+      <workItem from="1565792926584" duration="1090000" />
     </task>
     <servers />
   </component>

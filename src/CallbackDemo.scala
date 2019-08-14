@@ -25,6 +25,8 @@ object CallbackDemo {
 class CallbackDemo() extends JFrame("MiG Layout Callback Demo") with ActionListener with MouseMotionListener with MouseListener {
   val FONTS = new Array[Font](120)
   val migLayout = new MigLayout("align center bottom, insets 30")
+  val pressMap = new util.IdentityHashMap[Any, Long]
+  var mousePos: Point = _
   val panel: JPanel = new JPanel(migLayout) {
     override protected def paintComponent(g: Graphics): Unit = {
       g.asInstanceOf[Graphics2D].setPaint(new GradientPaint(0, getHeight / 2, Color.WHITE, 0, getHeight, new Color(240, 238, 235)))
@@ -74,13 +76,11 @@ class CallbackDemo() extends JFrame("MiG Layout Callback Demo") with ActionListe
   panel.add(label, "pos 0.5al 0.2al")
   panel.addMouseMotionListener(this)
   panel.addMouseListener(this)
-  final val repaintTimer = new Timer(20, (e: ActionEvent) => {
+  final val repaintTimer = new Timer(20, (_: ActionEvent) => {
     getContentPane.asInstanceOf[JPanel].revalidate()
   })
-  final val pressMap = new util.IdentityHashMap[Any, Long]
-  var mousePos: Point = _
 
-  def createButton(i: Int) = {
+  def createButton(i: Int): JButton = {
     val button = new JButton(String.valueOf("MIG LAYOUT".charAt(i))) {
       override def getFont: Font = {
         if (FONTS(0) == null) {
