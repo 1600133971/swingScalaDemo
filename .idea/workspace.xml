@@ -36,9 +36,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JButtonTutorial">
+  <component name="RunManager" selected="Application.BorderLayoutTutorial">
+    <configuration name="BorderLayoutTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BorderLayoutTutorial" />
+      <module name="swingScalaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JButtonTutorial" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="JButtonTutorial" />
+      <module name="swingScalaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JFrameTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JFrameTutorial" />
+      <module name="swingScalaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JPanelTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JPanelTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,34 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MigLayoutTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="MigLayoutTest" />
-      <module name="swingScalaDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MigLayoutTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="MigLayoutTutorial" />
-      <module name="swingScalaDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextFieldEvent" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="TextFieldEvent" />
-      <module name="swingScalaDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BorderLayoutTutorial" />
+        <item itemvalue="Application.JFrameTutorial" />
+        <item itemvalue="Application.JPanelTutorial" />
         <item itemvalue="Application.JButtonTutorial" />
         <item itemvalue="Application.LoadingScreenDemo" />
-        <item itemvalue="Application.TextFieldEvent" />
-        <item itemvalue="Application.MigLayoutTutorial" />
-        <item itemvalue="Application.MigLayoutTest" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +103,7 @@
       <workItem from="1565613305870" duration="1241000" />
       <workItem from="1565791621177" duration="1296000" />
       <workItem from="1565792926584" duration="1203000" />
-      <workItem from="1565871552365" duration="2066000" />
+      <workItem from="1565871552365" duration="2968000" />
     </task>
     <servers />
   </component>
