@@ -9,7 +9,7 @@ object MigLayoutTutorial {
   }
 }
 
-class MigLayoutTutorial() {
+class MigLayoutTutorial {
   val frame = new JFrame("Employees")
   val panel = new JPanel
   val lblFirstName = new JLabel("First name:")

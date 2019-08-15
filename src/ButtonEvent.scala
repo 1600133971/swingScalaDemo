@@ -11,7 +11,7 @@ object ButtonEvent {
   }
 }
 
-class ButtonEvent() {
+class ButtonEvent {
   val frame = new JFrame("Button event")
   val button = new JButton("Click me")
   button.addActionListener((_: ActionEvent) => {

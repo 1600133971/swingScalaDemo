@@ -11,7 +11,7 @@ object TextFieldEvent {
   }
 }
 
-class TextFieldEvent() {
+class TextFieldEvent {
   val frame = new JFrame("JTextField demo")
   val panel = new JPanel
   val textfield = new JTextField("", 20)

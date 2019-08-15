@@ -53,7 +53,7 @@ class CallbackDemo() extends JFrame("MiG Layout Callback Demo") with ActionListe
     // This is the jumping part
     override def correctBounds(c: ComponentWrapper): Unit = {
       val pressedNanos = pressMap.get(c.getComponent)
-      if (pressedNanos != null) {
+      if (pressedNanos != 0) {
         val duration = System.nanoTime - pressedNanos
         val maxHeight = 100.0 - (duration / 100000000.0)
         val deltaY = Math.abs(Math.sin(duration / 300000000.0) * maxHeight).round.toInt

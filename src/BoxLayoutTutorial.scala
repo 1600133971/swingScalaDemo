@@ -9,7 +9,7 @@ object BoxLayoutTutorial {
   }
 }
 
-class BoxLayoutTutorial() {
+class BoxLayoutTutorial {
   val frame = new JFrame("BoxLayout tutorial")
   val panel = new JPanel
   val buttonFirst = new JButton("First")

@@ -11,7 +11,7 @@ object CardLayoutTutorial {
   }
 }
 
-class CardLayoutTutorial() {
+class CardLayoutTutorial {
   val frame = new JFrame("CardLayout demo")
   val panelCont = new JPanel
   val panelFirst = new JPanel

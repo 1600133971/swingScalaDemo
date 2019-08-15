@@ -9,7 +9,7 @@ object BorderLayoutTutorial {
   }
 }
 
-class BorderLayoutTutorial() {
+class BorderLayoutTutorial {
   val frame = new JFrame("BorderLayout demo")
   val btn1 = new JButton("NORTH")
   val btn2 = new JButton("SOUTH")

@@ -36,30 +36,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CallbackDemo">
-    <configuration name="BoxLayoutTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BoxLayoutTutorial" />
+  <component name="RunManager" selected="Application.JButtonTutorial">
+    <configuration name="JButtonTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JButtonTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ButtonEvent" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ButtonEvent" />
+    <configuration name="LoadingScreenDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LoadingScreenDemo" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallbackDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CallbackDemo" />
+    <configuration name="MigLayoutTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MigLayoutTest" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardLayoutTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CardLayoutTutorial" />
+    <configuration name="MigLayoutTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MigLayoutTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CallbackDemo" />
-        <item itemvalue="Application.CardLayoutTutorial" />
-        <item itemvalue="Application.BoxLayoutTutorial" />
+        <item itemvalue="Application.JButtonTutorial" />
+        <item itemvalue="Application.LoadingScreenDemo" />
         <item itemvalue="Application.TextFieldEvent" />
-        <item itemvalue="Application.ButtonEvent" />
+        <item itemvalue="Application.MigLayoutTutorial" />
+        <item itemvalue="Application.MigLayoutTest" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,8 @@
       <workItem from="1565431534093" duration="4420000" />
       <workItem from="1565613305870" duration="1241000" />
       <workItem from="1565791621177" duration="1296000" />
-      <workItem from="1565792926584" duration="1090000" />
+      <workItem from="1565792926584" duration="1203000" />
+      <workItem from="1565871552365" duration="2066000" />
     </task>
     <servers />
   </component>
