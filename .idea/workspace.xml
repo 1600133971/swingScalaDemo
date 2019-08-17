@@ -36,37 +36,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BorderLayoutTutorial">
-    <configuration name="BorderLayoutTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BorderLayoutTutorial" />
+  <component name="RunManager" selected="Application.JTabbedPaneTutorial">
+    <configuration name="JTabbedPaneTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JTabbedPaneTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JButtonTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JButtonTutorial" />
+    <configuration name="JTextAreaTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JTextAreaTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JFrameTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JFrameTutorial" />
+    <configuration name="JTextFieldTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JTextFieldTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JPanelTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JPanelTutorial" />
+    <configuration name="JToolBarTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JToolBarTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoadingScreenDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="LoadingScreenDemo" />
+    <configuration name="JWindowTutorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JWindowTutorial" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BorderLayoutTutorial" />
-        <item itemvalue="Application.JFrameTutorial" />
-        <item itemvalue="Application.JPanelTutorial" />
-        <item itemvalue="Application.JButtonTutorial" />
-        <item itemvalue="Application.LoadingScreenDemo" />
+        <item itemvalue="Application.JTabbedPaneTutorial" />
+        <item itemvalue="Application.JTextAreaTutorial" />
+        <item itemvalue="Application.JTextFieldTutorial" />
+        <item itemvalue="Application.JToolBarTutorial" />
+        <item itemvalue="Application.JWindowTutorial" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +103,9 @@
       <workItem from="1565613305870" duration="1241000" />
       <workItem from="1565791621177" duration="1296000" />
       <workItem from="1565792926584" duration="1203000" />
-      <workItem from="1565871552365" duration="2968000" />
+      <workItem from="1565871552365" duration="3252000" />
+      <workItem from="1566038595463" duration="793000" />
+      <workItem from="1566043081576" duration="300000" />
     </task>
     <servers />
   </component>
