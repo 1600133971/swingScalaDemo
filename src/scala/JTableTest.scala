@@ -22,6 +22,8 @@ object JTableTest {
 
     // 创建一个表格，指定 所有行数据 和 表头
     val table = new STable(rowData, columnNames)
+    import org.oxbow.swingbits.table.filter.TableRowFilterSupport
+    TableRowFilterSupport.forTable(table).searchable(true).apply
 
     // 把 表头 添加到容器顶部（使用普通的中间容器添加表格时，表头 和 内容 需要分开添加）
     panel.add(table.getTableHeader, BorderLayout.NORTH)

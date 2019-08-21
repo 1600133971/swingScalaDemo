@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="swingbits">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/swingbits.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

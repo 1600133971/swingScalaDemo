@@ -18,9 +18,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/weblaf-ui-1.2.9.jar!/" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/swingbits.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.29375" />
     <property name="project.structure.side.proportion" value="0.2508108" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GridBagLayoutTutorial">
+  <component name="RunManager" selected="Application.JTableTest">
     <configuration name="GridBagLayoutTutorial" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="GridBagLayoutTutorial" />
       <module name="swingScalaDemo" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JScrollPaneTutorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="JScrollPaneTutorial" />
+    <configuration name="JTableTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="JTableTest" />
       <module name="swingScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JTableTest" />
         <item itemvalue="Application.GridBagLayoutTutorial" />
         <item itemvalue="Application.JOptionPaneTutorial" />
         <item itemvalue="Application.JPasswordFieldTutorial" />
         <item itemvalue="Application.JRadioButtonTutorial" />
-        <item itemvalue="Application.JScrollPaneTutorial" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +106,9 @@
       <workItem from="1565871552365" duration="3252000" />
       <workItem from="1566038595463" duration="793000" />
       <workItem from="1566043081576" duration="611000" />
-      <workItem from="1566389435825" duration="925000" />
+      <workItem from="1566389435825" duration="2244000" />
+      <workItem from="1566391814712" duration="1230000" />
+      <workItem from="1566398506543" duration="16000" />
     </task>
     <servers />
   </component>
