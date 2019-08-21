@@ -4,6 +4,8 @@
       <root url="jar://$PROJECT_DIR$/lib/swingbits.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/swingbits-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

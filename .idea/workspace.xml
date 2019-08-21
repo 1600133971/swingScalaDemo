@@ -18,8 +18,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/swingbits.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/swingbits-sources.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.29375" />
     <property name="project.structure.side.proportion" value="0.2508108" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -109,6 +109,8 @@
       <workItem from="1566389435825" duration="2244000" />
       <workItem from="1566391814712" duration="1230000" />
       <workItem from="1566398506543" duration="16000" />
+      <workItem from="1566399024580" duration="274000" />
+      <workItem from="1566399649087" duration="5000" />
     </task>
     <servers />
   </component>
