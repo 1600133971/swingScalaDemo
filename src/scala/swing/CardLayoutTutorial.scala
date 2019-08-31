@@ -1,7 +1,6 @@
 import javax.swing._
 import java.awt._
-import java.awt.event.ActionEvent
-import java.awt.event.ActionListener
+import java.awt.event._
 
 object CardLayoutTutorial {
   def main(args: Array[String]): Unit = {
@@ -28,15 +27,11 @@ class CardLayoutTutorial {
   panelCont.add(panelFirst, "1")
   panelCont.add(panelSecond, "2")
   cl.show(panelCont, "1")
-  buttonOne.addActionListener(new ActionListener() {
-    override def actionPerformed(arg0: ActionEvent): Unit = {
-      cl.show(panelCont, "2")
-    }
+  buttonOne.addActionListener((_: ActionEvent) => {
+    cl.show(panelCont, "2")
   })
-  buttonSecond.addActionListener(new ActionListener() {
-    override def actionPerformed(arg0: ActionEvent): Unit = {
-      cl.show(panelCont, "1")
-    }
+  buttonSecond.addActionListener((_: ActionEvent) => {
+    cl.show(panelCont, "1")
   })
   frame.add(panelCont)
   frame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE)

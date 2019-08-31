@@ -1,6 +1,5 @@
-import java.awt.{Color, Font, Frame, KeyEventDispatcher, KeyboardFocusManager, LayoutManager}
-import java.awt.event.{ActionEvent, ActionListener, KeyAdapter, KeyEvent, MouseAdapter, MouseEvent, MouseMotionAdapter}
-
+import java.awt._
+import java.awt.event._
 import javax.swing._
 import java.beans.PropertyVetoException
 import javax.swing.border.EtchedBorder

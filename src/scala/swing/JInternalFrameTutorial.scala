@@ -11,14 +11,14 @@ object JInternalFrameTutorial {
       intFrame.setClosable(true)
       intFrame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE)
       intFrame.setSize(320, 240)
-      // intFrame.pack();
+      //intFrame.pack();
       intFrame.setVisible(true)
       desktopPane.add(intFrame)
       val frame = new JFrame
       frame.add(desktopPane)
       frame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE)
       frame.setSize(640, 480)
-      // frame.pack();
+      //frame.pack();
       frame.setVisible(true)
     })
   }

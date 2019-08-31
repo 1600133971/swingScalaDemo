@@ -1,8 +1,5 @@
-import net.miginfocom.layout.BoundSize
-import net.miginfocom.layout.ComponentWrapper
-import net.miginfocom.layout.LayoutCallback
-import net.miginfocom.layout.UnitValue
-import net.miginfocom.swing.MigLayout
+import net.miginfocom.layout._
+import net.miginfocom.swing._
 import javax.swing._
 import java.awt._
 import java.awt.event._
